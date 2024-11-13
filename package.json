@@ -1,0 +1,23 @@
+{
+  "name": "classes",
+  "version": "1.0.0",
+  "description": "try out classes",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willy0483/classes.git"
+  },
+  "author": "william leander jensen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willy0483/classes/issues"
+  },
+  "homepage": "https://github.com/willy0483/classes#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
